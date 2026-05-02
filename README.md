@@ -26,6 +26,11 @@ FocusFlow is a Flutter-based productivity application designed to help users imp
 Users start a focus session (default 25 minutes).  
 The app tracks time, logs sessions, and updates productivity statistics.
 
+## 🎥 Demo Video
+Click below to watch the app demo:
+
+👉 [Watch FocusFlow Demo]https://drive.google.com/file/d/1kDPT6s0Pa4YpWTDeYnvSe7u16O_HxmZ5/view?usp=sharing
+
 ## 🔮 Future Improvements
 - Cloud sync
 - Notifications
