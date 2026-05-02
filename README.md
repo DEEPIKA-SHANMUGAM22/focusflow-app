@@ -1,17 +1,36 @@
-# flutter_deepi
+# FocusFlow – Productivity Timer App
 
-A new Flutter project.
+FocusFlow is a Flutter-based productivity application designed to help users improve concentration using a timer-based focus technique (Pomodoro method).
 
-## Getting Started
+## 🚀 Features
+- ⏱️ Focus Timer with real-time progress
+- 📊 Weekly productivity statistics
+- 🔥 Daily streak tracking
+- 📝 Session history (edit/delete)
+- ⚙️ Customizable focus & break durations
+- 💾 Local data persistence using SharedPreferences
 
-This project is a starting point for a Flutter application.
+## 🧠 Tech Stack
+- Flutter (UI)
+- Dart (Logic)
+- Provider (State Management)
+- SharedPreferences (Local Storage)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screens
+- Home – Overview of streak and sessions
+- Focus – Timer functionality
+- Stats – Weekly analytics
+- Settings – Customization options
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📌 How it works
+Users start a focus session (default 25 minutes).  
+The app tracks time, logs sessions, and updates productivity statistics.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔮 Future Improvements
+- Cloud sync
+- Notifications
+- AI-based productivity insights
+- Task integration
+
+## 👩‍💻 Author
+Deepika S
